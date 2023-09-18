@@ -15,6 +15,7 @@ use web-browsers back button to return to resume <br>
 Lead Systems Operations Engineer <br>
 Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms.
   - Having performed in excess of 800 AIX servers builds, ensured corporate security compliance, elevated to Production status, Decommissioning activities when lifecycle completed.
+    * AIX experience dates back to AIX 4.1.5 to current 7200-05-06
     * built configured NIM servers for each data center location
     * created custom deployment scripts to automate the process of building an AIX server
     * created Ansible playbooks to deploy all customizations including layered products to newly built servers
