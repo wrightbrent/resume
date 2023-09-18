@@ -1,14 +1,23 @@
 # Brent Wright
-_Senior Systems Automation / AIX Engineer based in Colorado Springs, Colorado <br>
+Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorado <br>
 [Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brent-wright-926648107/) / [GitHub](https://github.com/wrightbrent) 
 
 ## 👩🏼‍💻 Wells Fargo  (Nov 2006 - Present)
 Lead Systems Operations Engineer <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms.
+  - Having performed in excess of 800 AIX servers builds, ensured corporate security compliance, elevated to Production status, Decommissioning activities when lifecycle completed.
+    * built configured NIM servers for each data center location
+    * created custom deployment scripts to automate the process of building an AIX server
+    * created Ansible playbooks to deploy all customizations including layered products to newly built servers
+    * Provided support for problem tickets - first and back line of support
+    * Worked with many application teams to customize environments to their specifications
+    * Created / Authored and performed patch, upgrade and migration procedures during the lifecycle of all servers
+    * Integrated all servers into the internal Ansible Automation Platform
+    * Authored all Ansible playbooks to maintain servers in a consistent repeatable fashion
+    * Cross-trained many team members on all of the items listed above.
+  - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
+  - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
+  - **_Technologies used:_** AIX, RedHat, PowerHA, GPFS, Tivoli System Automation, NIM, KSH/BASH, Python, YAML, Ansible, Artifactory, GitHub, HPSA, Grafana, JIRA, Teams, Vault.
 <br><br>
 
 ## 👩🏼‍💻 Blue Cross Blue Shield of Arizona (July 1998 - Nov 2006)
