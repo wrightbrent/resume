@@ -2,6 +2,13 @@
 Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorado <br>
 [Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brent-wright-926648107/) / [GitHub](https://github.com/wrightbrent) 
 
+# Certifications
+[Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-ace-cert.png)
+[Microsoft Azure Fundamentals](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-900/Microsoft_Certified_Professional_Certificate_0.pdf)
+[Microsoft Azure Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-104/Microsoft_Azure-104_Cert.pdf)
+[IBM Cloud Essentials](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Cloud_Advocate_Essentials_Badge20230118-35-f2fjjj.pdf)
+[IBM Cloud Technical Advocate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Certified_Technical_Advocate___Cloud_v4___Code__C9004700_Badge20230301-28-1rscm0y.pdf)
+
 ## 👩🏼‍💻 Wells Fargo  (Nov 2006 - Present)
 Lead Systems Operations Engineer <br>
 Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms.
