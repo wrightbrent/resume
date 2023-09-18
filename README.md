@@ -1,5 +1,5 @@
 # Brent Wright
-_Senior Systems Automation / AIX Engineer and journalist based in Colorado Springs, Colorado <br>
+_Senior Systems Automation / AIX Engineer based in Colorado Springs, Colorado <br>
 [Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](www.linkedin.com/in/brent-wright-926648107) / [GitHub](https://github.com/wrightbrent) 
 
 ## 👩🏼‍💻 Engineering Experience
