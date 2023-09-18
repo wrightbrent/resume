@@ -19,6 +19,7 @@ Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms
     * Cross-trained many team members on all of the items listed above.
   - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
   - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
+  - size of the AIX environment range varied between 130 - 320
   - **_Technologies used:_** AIX, RedHat, PowerHA, GPFS, Tivoli System Automation, NIM, KSH/BASH, Python, YAML, Ansible, Artifactory, GitHub, HPSA, Grafana, JIRA, Teams, Vault.
 <br><br>
 
