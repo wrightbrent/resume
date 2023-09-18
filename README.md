@@ -7,6 +7,7 @@ use web-browsers back button to return to resume <br>
 [Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-ace-cert.png) <br>
 [Microsoft Azure Fundamentals](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-900/Microsoft_Certified_Professional_Certificate_0.pdf) <br>
 [Microsoft Azure Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-104/Microsoft_Azure-104_Cert.pdf) <br>
+[Renewal - Microsoft Azure Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/az104-renew.jpg) <br>
 [IBM Cloud Essentials](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Cloud_Advocate_Essentials_Badge20230118-35-f2fjjj.pdf) <br>
 [IBM Cloud Technical Advocate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Certified_Technical_Advocate___Cloud_v4___Code__C9004700_Badge20230301-28-1rscm0y.pdf) <br>
 
@@ -53,4 +54,17 @@ Full service support for the AIX / Unix platforms.
 ## 👩🏼‍💻 Continuous Learning
 Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about technology platforms / tools
 
-  
+[Ansible Deep Dive](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Ansible-playbooks-deep-dive.png) <br>
+[AZURE - DevOps](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ACG-DevOps.pdf) <br>
+[AZURE - PowerShell](https://github.com/wrightbrent/Cloud-cert-information/blob/main/azPScert.pdf) <br>
+[AZURE - Commandline](https://github.com/wrightbrent/Cloud-cert-information/blob/main/azclicert.pdf) <br>
+[Docker - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Docker-acg-cert.pdf) <br>
+[Google - CI/CD pipelines](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ci-cd-cert.pdf) <br>
+[Google - DevOps Whizlabs exam](https://github.com/wrightbrent/Cloud-cert-information/blob/main/devops-whiz-pass.png) <br>
+[Jenkins](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Jenkins-cert.pdf) <br>
+[Kubernetes - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/intro-cert.pdf) <br>
+[Kubernetes - Deep Dive](https://github.com/wrightbrent/Cloud-cert-information/blob/main/deep-dive-cert.pdf) <br>
+[Monitoring Google](https://github.com/wrightbrent/Cloud-cert-information/blob/main/monitoring-cert.pdf) <br>
+[Python - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Python-entry-level.pdf) <br>
+
+
