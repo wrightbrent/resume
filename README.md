@@ -28,7 +28,25 @@ Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms
   - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
   - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
   - size of the AIX environment range varied between 130 - 320
-  - **_Technologies used:_** AIX, RedHat, PowerHA, GPFS, Tivoli System Automation, NIM, KSH/BASH, Python, YAML, Ansible, Artifactory, GitHub, HPSA, Grafana, JIRA, Teams, Vault.
+  - **_Technologies used:_** AIX, RedHat, PowerHA, GPFS, Tivoli System Automation, PAC2000, ServiceNow, NIM, KSH/BASH, Python, YAML, Ansible, Artifactory, GitHub, HPSA, Grafana, JIRA, Teams, Vault.
 <br><br>
 
-## 👩🏼‍💻 Blue Cross Blue Shield of Arizona (July 1998 - Nov 2006)
+## 👩🏼‍💻 Blue Cross Blue Shield of Arizona  (July 1998 - Nov 2006)
+Unix Systems Engineer III <br>
+Full service support for the AIX / Unix platforms.
+  - Complete representation of the Unix environment and providing for it's needs.
+    * Determine server sizing, work with IBM to purchase machines and support licenses
+    * Receive hardware, deploy to datacenter and integrate into the operating environment (network, san, power, etc)
+    * Perform installation installs, updates, patching and application deployments in accordance with the application teams needs
+    * Perform any support functions, troubleshooting, maintainance, user creation / issues.
+    * Act as the SAN engineer using the IBM FastT products to provide the servers with necessary disks
+    * use LVM to custom design the layout of the SAN disks as required by application teams.
+    * Assist in the support of one 14-node SuSE linux cluster implementation.
+  - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
+  - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
+  - size of the AIX environment range varied between 130 - 320
+  - **_Technologies used:_** AIX, RedHat, PowerHA, GPFS, Tivoli System Automation, PAC2000, ServiceNow, NIM, KSH/BASH, Python, YAML, Ansible, Artifactory, GitHub, HPSA, Grafana, JIRA, Teams, Vault.
+<br><br>
+
+
+  
