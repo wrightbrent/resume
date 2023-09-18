@@ -1,6 +1,6 @@
 # Brent Wright
 _Senior Systems Automation / AIX Engineer based in Colorado Springs, Colorado <br>
-[Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](www.linkedin.com/in/brent-wright-926648107) / [GitHub](https://github.com/wrightbrent) 
+[Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brent-wright-926648107/) / [GitHub](https://github.com/wrightbrent) 
 
 ## 👩🏼‍💻 Engineering Experience
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
