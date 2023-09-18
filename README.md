@@ -45,9 +45,8 @@ Full service support for the AIX / Unix platforms.
     * use LVM to custom design the layout of the SAN disks as required by application teams.
     * Assist in the support of one 14-node SuSE linux cluster implementation.
     * Administered the server-side support required to maintain the application: FileNet (utilizing a JukeBox to store images)
-  - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
-  - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
-  - size of the AIX environment range varied between 130 - 320
+ 
+  - size of the AIX environment range varied between 12 - 31
   - **_Technologies used:_** AIX, SuSE, PowerHA, GPFS, IBM FastT SAN, KSH/BASH, FileNet.
 <br><br>
 
