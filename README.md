@@ -12,6 +12,8 @@ Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms
     * Provided support for problem tickets - first and back line of support
     * Worked with many application teams to customize environments to their specifications
     * Created / Authored and performed patch, upgrade and migration procedures during the lifecycle of all servers
+    * performed alt_disk O/S migrations approximately 2000 times to keep AIX servers running a current operating system.
+    * Created the procedure for and executed the upgrade of 38 RedHat Linux on Power servers (ppc64le)
     * Integrated all servers into the internal Ansible Automation Platform
     * Authored all Ansible playbooks to maintain servers in a consistent repeatable fashion
     * Cross-trained many team members on all of the items listed above.
