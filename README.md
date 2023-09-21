@@ -13,7 +13,7 @@ use web-browsers back button to return to resume <br>
 [IBM Cloud Advocate Plus](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Certified_Advocate_Plus___Cloud_v2_Badge20230921-28-vfhewm.pdf) <br>
 
 ## 👩🏼‍💻 Wells Fargo  (Nov 2006 - Present)
-Lead Systems Operations Engineer <br>
+Lead Systems Operations Engineer / Officer Title: Vice President <br>
 Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms.
   - Having performed in excess of 800 AIX servers builds, ensured corporate security compliance, elevated to Production status, Decommissioning activities when lifecycle completed.
     * AIX experience dates back to AIX 4.1.5 to current 7200-05-06
