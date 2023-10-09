@@ -21,6 +21,7 @@ Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms
     * created custom deployment scripts to automate the process of building an AIX server
     * created Ansible playbooks to deploy all customizations including layered products to newly built servers
     * Provided support for problem tickets - first and back line of support
+    * Performed the role of technical interviewer to ensure staff additions met technical skill criteria
     * Worked with many application teams to customize environments to their specifications
     * Often altered the shift I would work in order to perform highly complex upgrades/procedures during off-hours
     * Created / supported PowerHA clusters ranging in size between 2 and 8 nodes
@@ -30,9 +31,10 @@ Cradle to Grave support for the AIX and RedHat on Power (ppc64le) Unix platforms
     * performed alt_disk O/S migrations approximately 2000 times to keep AIX servers running a current operating system.
     * Created the procedure for and executed the upgrade of 38 RedHat Linux on Power servers (ppc64le)
     * Integrated all servers into the internal Ansible Automation Platform
+    * Leveraging modern tools to build automation into the build and maintenance processes
     * Authored all Ansible playbooks to maintain servers in a consistent repeatable fashion
     * Cross-trained many team members on all of the items listed above.
-  - Wrote or editted code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
+  - Wrote, editted and reviewed code in the following disciplines: Korn, Bash, YAML, Python (python skills are new but growing).
   - Implemented monitoring of all AIX servers using Grafana's node-exporter and rsyslog to provide to the metrics/logging teams to implement automated alerting.
   - Size of the AIX environment range varied between 130 - 320
   - Participating in the agile process including stand-ups, backlog refinements and retrospectives
