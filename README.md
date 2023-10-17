@@ -74,6 +74,7 @@ Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about te
 [Kubernetes - Deep Dive](https://github.com/wrightbrent/Cloud-cert-information/blob/main/deep-dive-cert.pdf) <br>
 [Monitoring Google](https://github.com/wrightbrent/Cloud-cert-information/blob/main/monitoring-cert.pdf) <br>
 [Python - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Python-entry-level.pdf) <br>
+[Python - Intensive Introduction](https://github.com/wrightbrent/Cloud-cert-information/blob/main/python-intensive-intro-certificate.pdf) <br>
 [RedHat Openshift - intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/OC-intro-cert.pdf) <br>
 [RedHat Openshift - specialist](https://github.com/wrightbrent/Cloud-cert-information/blob/main/RHCSCK-EX180.JPG) <br>
 [Terraform - Associate - ACG](https://github.com/wrightbrent/Cloud-cert-information/blob/main/terraform-acg.pdf) <br>
