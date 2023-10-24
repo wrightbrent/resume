@@ -78,6 +78,7 @@ Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about te
 [RedHat Openshift - intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/OC-intro-cert.pdf) <br>
 [RedHat Openshift - specialist](https://github.com/wrightbrent/Cloud-cert-information/blob/main/RHCSCK-EX180.JPG) <br>
 [Terraform - Associate - ACG](https://github.com/wrightbrent/Cloud-cert-information/blob/main/terraform-acg.pdf) <br>
+[Terraform - Whizlabs](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Whiz-Terraform-Certificate.pdf) <br>
 [Whizlabs - AZURE Fundamentals certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-az900-cert.pdf) <br>
 [Whizlabs - AZURE Administrator certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-az104-cert.pdf) <br>
 [Whizlabs - Google Cloud Engineer certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-gcp-cert.pdf)
