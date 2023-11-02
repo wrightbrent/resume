@@ -5,6 +5,7 @@ Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorad
 # Certifications
 use web-browsers back button to return to resume <br>
 [Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-ace-cert.png) <br>
+[Renewal - Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-renew.jpg) <br>
 [Microsoft Azure Fundamentals](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-900/Microsoft_Certified_Professional_Certificate_0.pdf) <br>
 [Microsoft Azure Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/AZ-104/Microsoft_Azure-104_Cert.pdf) <br>
 [Renewal - Microsoft Azure Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/az104-renew.jpg) <br>
