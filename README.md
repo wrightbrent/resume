@@ -84,5 +84,6 @@ Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about te
 [Whizlabs - AZURE Fundamentals certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-az900-cert.pdf) <br>
 [Whizlabs - AZURE Administrator certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-az104-cert.pdf) <br>
 [Whizlabs - Google Cloud Engineer certificate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whiz-gcp-cert.pdf) <br>
-[Whizlabs - CompTIA Linux+ exam](https://github.com/wrightbrent/Cloud-cert-information/blob/main/CompTIA-Linux-plus-test.jpg)
+[Whizlabs - CompTIA Linux+ exam](https://github.com/wrightbrent/Cloud-cert-information/blob/main/CompTIA-Linux-plus-test.jpg) <br>
+[Whizlabs - CompTIA Security+](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whizlabs-security-plus-cert.pdf)
 
