@@ -1,7 +1,8 @@
 # Brent Wright
 Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorado <br>
 [Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brent-wright-926648107/) / [GitHub](https://github.com/wrightbrent) <br>
-[Download resume PDF](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whizlabs-security-plus-cert.pdf)
+[Download resume PDF](https://github.com/wrightbrent/Cloud-cert-information/blob/main/whizlabs-security-plus-cert.pdf)<br>
+<a href="data:application/octet-stream,DATA" download=https://github.com/wrightbrent/Cloud-cert-information/blob/main/whizlabs-security-plus-cert.pdf>resume</a>
 
 # Certifications
 use web-browsers back button to return to resume <br>
