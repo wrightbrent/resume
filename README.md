@@ -14,6 +14,7 @@ use web-browsers back button to return to resume <br>
 [IBM Cloud Technical Advocate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Certified_Technical_Advocate___Cloud_v4___Code__C9004700_Badge20230301-28-1rscm0y.pdf) <br>
 [IBM Cloud Advocate Plus](https://github.com/wrightbrent/Cloud-cert-information/blob/main/IBM_Certified_Advocate_Plus___Cloud_v2_Badge20230921-28-vfhewm.pdf) <br>
 [Hashicorp Terraform Associate](https://github.com/wrightbrent/Cloud-cert-information/blob/main/terraform-cert.jpg) <br>
+[CompTIA - Security+](https://github.com/wrightbrent/Cloud-cert-information/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) <br>
 
 ## 👩🏼‍💻 Wells Fargo  (Nov 2006 - Present)
 Lead Systems Operations Engineer / Officer Title: Vice President <br>
