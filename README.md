@@ -72,7 +72,7 @@ Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about te
 [AZURE - Commandline](https://github.com/wrightbrent/Cloud-cert-information/blob/main/azclicert.pdf) <br>
 [Docker - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Docker-acg-cert.pdf) <br>
 [Google - CI/CD pipelines](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ci-cd-cert.pdf) <br>
-[Google - Security Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ACG-GCP-security.pdf) <br>
+[Google - Security Engineer - ACG](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ACG-GCP-security.pdf) <br>
 [Google - DevOps Whizlabs exam](https://github.com/wrightbrent/Cloud-cert-information/blob/main/devops-whiz-pass.png) <br>
 [Jenkins](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Jenkins-cert.pdf) <br>
 [Kubernetes - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/intro-cert.pdf) <br>
