@@ -4,6 +4,7 @@ Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorad
 
 # Certifications
 use web-browsers back button to return to resume <br>
+[Red Hat Certified Systems Administrator](https://github.com/wrightbrent/Cloud-cert-information/blob/main/RedHat-RHCSA-cert.pdf) <br>
 [Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-ace-cert.png) <br>
 [Google Cloud Professional Security Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/gcpsec-cert.jpg) <br>
 [Renewal - 2024 - Google Cloud Associate Engineer](https://github.com/wrightbrent/Cloud-cert-information/blob/main/GCP/gcp-renew.jpg) <br>
