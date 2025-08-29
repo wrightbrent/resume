@@ -1,5 +1,6 @@
 # Brent Wright
-Senior Systems Automation / AIX/Unix Engineer based in Colorado Springs, Colorado <br>
+Senior Systems Automation / AIX-Unix and Linux Engineer based in Colorado Springs, Colorado <br>
+**Security Clearance – DoD Secret (Active in DISS) / TSA EOD Trusted** <br>
 [Email](mailto:brent.wright1021@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brent-wright-926648107/) / [GitHub](https://github.com/wrightbrent) <br>
 
 # Certifications
@@ -73,6 +74,8 @@ Using the A-Cloud-Guru and WhizLabs learning sites to continue to learn about te
 [AZURE - PowerShell](https://github.com/wrightbrent/Cloud-cert-information/blob/main/azPScert.pdf) <br>
 [AZURE - Commandline](https://github.com/wrightbrent/Cloud-cert-information/blob/main/azclicert.pdf) <br>
 [Docker - Intro](https://github.com/wrightbrent/Cloud-cert-information/blob/main/Docker-acg-cert.pdf) <br>
+[GitHub - Assessment](https://github.com/wrightbrent/Cloud-cert-information/blob/main/github-assessment.jpg) <br>
+[GitHub - Courses](https://github.com/wrightbrent/Cloud-cert-information/blob/main/git-course.jpg) <br>
 [Google - CI/CD pipelines](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ci-cd-cert.pdf) <br>
 [Google - Security Engineer - ACG](https://github.com/wrightbrent/Cloud-cert-information/blob/main/ACG-GCP-security.pdf) <br>
 [Google - DevOps Whizlabs exam](https://github.com/wrightbrent/Cloud-cert-information/blob/main/devops-whiz-pass.png) <br>
